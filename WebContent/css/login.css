@@ -1,0 +1,100 @@
+﻿body{
+	margin: 0;
+	padding:0;
+}
+
+/*#c1{
+	width: 500px;
+	height: 500px;
+	border: 1px solid red;
+	margin-top: 100px;
+	margin-left: 400px;
+	
+	padding-left:100px;
+	padding-right: 100px;
+}*/
+
+/*html{    
+    width: 100%;    
+    height: 100%;    
+    overflow: hidden;    
+    font-style: sans-serif;    
+}  */  
+/*.c2{    
+    width: 100%;    
+    height: 100%;    
+    font-family: 'Open Sans',sans-serif;    
+    margin: 0;       
+    background-color:#6792be;  
+}  */
+
+
+.c2{
+	width: 500px;
+	height: 500px;
+	margin-left: 350px;
+	padding-left:100px;
+	padding-right: 100px;
+	background-color:#6792be; 
+} 
+
+#c4{
+	font-size: 80px;
+	/*一般情况下，字体我们要设置多个，浏览器的查找 方向是依次的。而且字体之间应该是相像的 */
+	font-family:微软雅黑 ;
+	margin: -50px 0 0 0;
+	font-weight: 700;
+	text-align: center;
+	
+	color: #f9f9f9;
+} 
+
+
+#login{    
+    position: absolute;    
+    top: 50%;    
+    left:50%;    
+    margin: -150px 0 0 -150px; 
+    width: 300px;    
+    height: 300px;    
+}    
+.c3{    
+    color: #fff;    
+    text-shadow:0 0 10px;    
+    letter-spacing: 1px;    
+    text-align:center;    
+}    
+  
+.c1{    
+    width: 278px;    
+    height: 18px;    
+    margin-bottom: 10px;    
+    outline: none;    
+    padding: 10px;    
+    font-size: 13px;    
+    color: #fff;    
+    text-shadow:1px 1px 1px;    
+    border-top: 1px solid #312E3D;    
+    border-left: 1px solid #312E3D;    
+    border-right: 1px solid #312E3D;    
+    border-bottom: 1px solid #56536A;    
+    border-radius: 4px;    
+    background-color: #b1c5d9;    
+}    
+.but{    
+    width: 300px;    
+   min-height: 20px;    
+    display: block;    
+   background-color: #4a77d4;    
+    border: 1px solid #3762bc;    
+    color: #fff;    
+    padding: 9px 14px;    
+    font-size: 15px;    
+    line-height: normal;    
+    border-radius: 5px;    
+   margin: 0;    
+}   
+.c0{
+	font-size: 13px;    
+    color: #fff;    
+}
